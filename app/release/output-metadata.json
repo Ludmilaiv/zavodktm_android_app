@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.ktm",
+  "applicationId": "ru.zavodktm.biomatic",
   "variantName": "release",
   "elements": [
     {
