@@ -7,10 +7,10 @@ android {
 
     defaultConfig {
         applicationId "ru.zavodktm.biomatic"
-        minSdkVersion 16
+        minSdkVersion 19
         targetSdkVersion 30
-        versionCode 1
-        versionName "1.0"
+        versionCode 17
+        versionName "1.2.9"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
