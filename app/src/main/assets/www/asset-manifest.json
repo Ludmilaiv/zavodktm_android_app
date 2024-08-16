@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.a0155b33.css",
-    "main.js": "./static/js/main.93fc16a9.js",
+    "main.css": "./static/css/main.efb18ff8.css",
+    "main.js": "./static/js/main.565a5987.js",
     "static/js/787.9304dced.chunk.js": "./static/js/787.9304dced.chunk.js",
     "static/media/Exo2-VariableFont_wght.ttf": "./static/media/Exo2-VariableFont_wght.cb945e8e8b28126e47ad.ttf",
     "static/media/Myriad Pro Bold Italic.ttf": "./static/media/Myriad Pro Bold Italic.7f00845cbab4949cebd0.ttf",
@@ -24,12 +24,12 @@
     "static/media/close_offline.svg": "./static/media/close_offline.0608616d019e551c33d3.svg",
     "static/media/edit.svg": "./static/media/edit.4e2eb201097553fd3ddf.svg",
     "static/media/edit_offline.svg": "./static/media/edit_offline.98981e282ba3105522dd.svg",
-    "main.a0155b33.css.map": "./static/css/main.a0155b33.css.map",
-    "main.93fc16a9.js.map": "./static/js/main.93fc16a9.js.map",
+    "main.efb18ff8.css.map": "./static/css/main.efb18ff8.css.map",
+    "main.565a5987.js.map": "./static/js/main.565a5987.js.map",
     "787.9304dced.chunk.js.map": "./static/js/787.9304dced.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0155b33.css",
-    "static/js/main.93fc16a9.js"
+    "static/css/main.efb18ff8.css",
+    "static/js/main.565a5987.js"
   ]
 }
